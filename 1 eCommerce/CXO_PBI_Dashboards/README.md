@@ -1,7 +1,7 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![test](screenshots/1_CEO.png)
+!"screenshots/1_CEO.png"
 
 ### 6 Thinking Hats
 1. **White Hat (Facts and Information)**:
